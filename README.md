@@ -34,6 +34,8 @@ In my version of the game, “Enhanced Simon,” I increased the complexity of t
 ## SyncSM Diagrams
 ![task_diagram](images/joystick_input_task.png)
 
+![task_diagram](images/remote_input_task.png)
+
 ![task_diagram](images/lcd_display_task.png)
 
 ![task_diagram](images/level_sequences_task.png)
@@ -42,3 +44,4 @@ In my version of the game, “Enhanced Simon,” I increased the complexity of t
 
 ![task_diagram](images/game_sound_task.png)
 
+![task_diagram](images/score_handler_task.png)
